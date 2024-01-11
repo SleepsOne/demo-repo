@@ -6,3 +6,7 @@ Toi la Lai Duc
 
 the line was written by Duc.
 Some description
+
+## Local Dev
+
+1. Open index.html in your browser.
